@@ -14,7 +14,7 @@
 
             switch (subject.ToLower())
             {
-                case "Math":
+                case "math":
                     Console.WriteLine("i dont prefer math");
                     break;
                 case "pe":
@@ -28,7 +28,6 @@
                 case "geography":
                     Console.WriteLine("I like to study the world too");
                     break;
-                    
                 default:
                     Console.WriteLine("I like to study the world too");
                     break;
